@@ -49,5 +49,6 @@
                 // Show success (in a real app, you'd redirect or show a toast)
                 loginForm.reset();
                 alert('Login successful!');
+                alert('We will be back with more pages soon!');
             }
         });
